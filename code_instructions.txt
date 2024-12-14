@@ -1,0 +1,7 @@
+Pour lancer le code : 
+- se positionner dans le dossier /code
+- lancer les instructions suivantes (copier/coller)
+python3 -m venv venv
+source venv/bin/activate
+python3 -m pip install -r requirements.txt
+- lancer le notebook, sélectionner le venv en tant que kernel et rouler les cellules

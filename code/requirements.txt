@@ -1,0 +1,9 @@
+quantstats
+pandas
+numpy
+matplotlib
+seaborn
+openpyxl
+tqdm
+cvxpy
+pyportfolioopt
